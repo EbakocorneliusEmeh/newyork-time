@@ -53,10 +53,10 @@ h1 {
   padding: 1rem;
 }
 
-.Section-1 {
+.section-1 {
   margin: 10px;
   padding: 20px;
-  background-color: rgb(255, 255, 255);
+  background-color: white;
 }
 
 .left {
@@ -88,12 +88,11 @@ small {
 }
 
 h4 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 section {
-  border-bottom: 1px solid rgb(170, 168, 168);
+  border-bottom: 1px solid #AAA8A8;
 }
 
 figcaption {
@@ -113,21 +112,21 @@ img {
   height: 400px;
 }
 
-.Horiz {
+.horiz {
   display: flex;
   justify-content: space-between;
   padding: 0.2rem;
-  border-top: 1px solid rgb(181, 180, 180);
-  border-bottom: 1px solid rgb(183, 182, 182);
+  border-top: 1px solid #B5B4B4;
+  border-bottom: 1px solid #B7B6B6;
 }
 
 .trump {
   height: 100px;
   width: 100px;
-  border: 3px solid rgb(6, 121, 252);
+  border: 3px solid #0679FC;
 }
 
-.Amric {
+.amric {
   height: 100px;
   width: 100px;
 }
@@ -140,7 +139,7 @@ img {
   margin: 0.5rem auto;
 }
 
-.Section-2 {
+.section-2 {
   flex-grow: 2;
   margin: 10px;
   padding: 20px;
@@ -173,7 +172,7 @@ img {
   width: 100px;
 }
 
-.Advert {
+.advert {
   background-color: aliceblue;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;

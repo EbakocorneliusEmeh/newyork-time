@@ -13,6 +13,7 @@ ul {
   display: flex;
   margin: 5px auto;
   padding: 3px auto;
+  
 }
 
 ul,
@@ -181,4 +182,8 @@ img {
   width: 97%;
   display: flex;
   justify-content: center;
+}
+.logo{
+  display: inline;
+  justify-content: flex-start;
 }
